@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "PerNet",
+  "short_name": "PerNet",
+  "version": "com.phonegap.helloworld",
+  "description": "PerNet, teste de visualização.",
+  "author": "Ben-Hur",
+  "icons": [],
+  "start_url": "index.html"
+}
